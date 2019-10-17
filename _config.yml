@@ -24,17 +24,13 @@ tucaoUrl: https://www.zhihu.com/people/xuechuanyu/activities
 
 # 菜单
 menu:
-  - title: Root
+  - title: Resume
     url: /
-  - title: Share
-    url: /pages/categories.html
-  - title: Search
-    url: /pages/search.html
-  - title: Links
-    url: /pages/links.html
   - title: Blog
     url: /pages/chat.html
-  - title: About Chuanyu
+  - title: Links
+    url: /pages/links.html
+  - title: Download CV
     url: /pages/about.html
 
 # 自定义插件
