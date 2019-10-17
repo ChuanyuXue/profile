@@ -6,12 +6,13 @@ title: 关于我
 # Chuan-yu Xue
 
 ## Contact
-| Phone    |      +86 178-5326-9309      |
-|----------|:---------------------------:|
-| Email    |        cs_xcy@126.com       |
-| Address  |      Qingdao University     |
-| LinkedIn |  linkedin.com/in/chuanyuxue |
-| Github   |    github.com/ChuanyuXue    |
+|          |                             |
+|----------|-----------------------------|
+| Phone    | +86 178-5326-9309           |
+| Email    | cs_xcy@126.com              |
+| Address  | Qingdao University          |
+| LinkedIn | linkedin.com/in/chuanyuxue  |
+| Github   | github.com/ChuanyuXue       |
 | Blog     | zhihu.com/people/xuechuanyu |
 
 ## Education
