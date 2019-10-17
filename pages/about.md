@@ -9,7 +9,10 @@ title: About me
 	I am now a pre-final student in Qingdao University, who is looking for&nbsp;<span>overseas</span> PhD positions(North America prefered) and domestic&nbsp;job opportunities in 2020. My research interests include datamining and recommender systems, and I have participated in some data mining competitions and published some articles during my study. I was an independ music player before and I played guitar for a popular folk band in China. My favorite language is Python. I also like playing League of Legends with my friends and watching movies with my GF.&nbsp;
 </p>
 <h3>
-	Contact
+	<br />
+</h3>
+<h3>
+	Feel free to contact me at follows
 </h3>
 <p>
 	<table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#000000">
@@ -66,6 +69,9 @@ title: About me
 	</table>
 </p>
 <h3>
+	<br />
+</h3>
+<h3>
 	Education
 </h3>
 <p>
@@ -110,13 +116,13 @@ title: About me
 	</table>
 </p>
 <h3>
+	<br />
+</h3>
+<h3>
 	Project Experience
 </h3>
 <p>
-	<strong>Data Mining Competitions</strong> 
-</p>
-<p>
-	<br />
+	<strong>Data Mining Competitions</strong>
 </p>
 <ul>
 	<li>
@@ -129,7 +135,7 @@ learning problems and successfully entering the semi-finals, the final ranking i
 	</li>
 	<li>
 		&nbsp;Participated in the "National College Green Computing Contest-18 (Project Challenge)", responsible for solving machine
-learning problems and successfully entering the semi-finals, the final ranking is <span style="background-color:#E56600;">3/900</span>. <a href="https://github.com/ChuanyuXue/Chinese-OpenGCC-Contest-2st-Solution" target="_blank">[code]</a>
+learning problems and successfully entering the semi-finals, the final ranking is <span style="background-color:#E56600;">3/900</span>. <a href="https://github.com/ChuanyuXue/Chinese-OpenGCC-Contest-2st-Solution" target="_blank">[code]</a> 
 	</li>
 	<li>
 		Participated in the "IJCAI-18 Alimama Sponsored Search Conversion Rate(CVR) Prediction Contest" and successfully
@@ -145,7 +151,7 @@ final ranking of the semi-finals is 65/2845.&nbsp;
 	</li>
 	<li>
 		Participated in the "Tianchi Intelligent Traffic Prediction Contest" and successfully entered the semi-finals, the ranking of the
-semi-finals is 28/1761. <a href="https://github.com/ChuanyuXue/Tianchi-Traffic-Prediction-Contest" target="_blank">[code]</a>
+semi-finals is 28/1761. <a href="https://github.com/ChuanyuXue/Tianchi-Traffic-Prediction-Contest" target="_blank">[code]</a> 
 	</li>
 </ul>
 <p>
@@ -166,21 +172,23 @@ Qingdao University President Cup and the third prize of Microsoft Innovation Cup
 <p>
 	<strong>Others</strong> 
 </p>
-<ul>
-	<li>
-		Invited to make the online course titled "The Purchase and Redemption Forecast Challenge" on Alibaba Tianchi platform. <a href="https://github.com/ChuanyuXue/The-Purchase-and-Redemption-Forecast-Challenge-baseline" target="_blank">[Code]</a>
-	</li>
-</ul>
+<p>
+	<ul>
+		<li>
+			Invited to make the online course titled "The Purchase and Redemption Forecast Challenge" on Alibaba Tianchi platform. <a href="https://github.com/ChuanyuXue/The-Purchase-and-Redemption-Forecast-Challenge-baseline" target="_blank">[Code]</a>
+		</li>
+	</ul>
+	<p>
+		<br />
+	</p>
+</p>
 <h3>
 	Publications &amp; talks
 </h3>
-<p>
-	<br />
-</p>
 <ul>
 	<li>
 		Chuan-yu Xue, Shun-yao Wu, Qi Zhang, Feng-jing Shao, An Incremental Group-Specific Framework based on Community
-Detection for Cold Start Recommendation, IEEE Access, Volume 7, 2019, 112363-112374. <a href="https://ieeexplore.ieee.org/document/8795572" target="_blank">[pdf]</a>&nbsp;<a href="https://github.com/ChuanyuXue/Incremental_GroupSpecific_Recommender_System" target="_blank">[code]</a>
+Detection for Cold Start Recommendation, IEEE Access, Volume 7, 2019, 112363-112374. <a href="https://ieeexplore.ieee.org/document/8795572" target="_blank">[pdf]</a>&nbsp;<a href="https://github.com/ChuanyuXue/Incremental_GroupSpecific_Recommender_System" target="_blank">[code]</a> 
 	</li>
 	<li>
 		Shun-yao Wu, Qi Zhang, Chuan-yu Xue, Xi-yang Liao, Cold-start link prediction in multi-relational networks based on
@@ -201,9 +209,6 @@ Chongqing, China<br />
 <h3>
 	Awards
 </h3>
-<p>
-	<br />
-</p>
 <ul>
 	<li>
 		Outstanding Winner of Chinese Green Computing Competition(CCF-OpenGCC)
@@ -221,6 +226,3 @@ Chongqing, China<br />
 		Second Prize of Provience Science and Technology Innovation Competition
 	</li>
 </ul>
-<p>
-	<br />
-</p>
