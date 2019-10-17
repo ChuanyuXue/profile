@@ -3,12 +3,17 @@ layout: mypost
 title: 关于我
 ---
 
+<h2>
+	Chuanyu Xue
+</h2>
 <p>
-	<span style="font-size:24px;">Chuan-yu Xue&nbsp;</span>
+	I am now a pre-final student in Qingdao University, who is looking for&nbsp;<span>overseas</span> PhD position&nbsp;or domestic&nbsp;job opportuniry in 2020.
 </p>
+<h3>
+	Contact
+</h3>
 <p>
-	<span style="font-size:24px;"><br />
-</span>
+	<br />
 </p>
 <p>
 	<table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#000000">
@@ -34,7 +39,7 @@ title: 关于我
 					<span>Address</span><br />
 				</td>
 				<td>
-					<span>Qingdao University, Ningxia Road 308 Qingdao, Shandong Province, P.R.China</span><br />
+					<span>Qingdao University</span><br />
 				</td>
 			</tr>
 			<tr>
