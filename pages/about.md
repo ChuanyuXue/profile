@@ -113,42 +113,43 @@ title: About me
 	Project Experience
 </h3>
 <p>
-	<strong>Data Mining Competitions</strong>
+	<strong>Data Mining Competitions</strong> 
 </p>
 <p>
-	<ul>
-		<li>
-			Participated in the "CIKM 2019 EComm AI - Efficient and Novel Item Retrieval for Large-scale Online Shopping
-Recommendation" and successfully entered the semi-finals, the ranking of the semi-finals is 2/1004.&nbsp;
-		</li>
-		<li>
-			Participated in the "National College Green Computing Contest-19 (Project Challenge)", responsible for solving machine
-learning problems and successfully entering the semi-finals, the final ranking is 1/1155.
-		</li>
-		<li>
-			&nbsp;Participated in the "National College Green Computing Contest-18 (Project Challenge)", responsible for solving machine
-learning problems and successfully entering the semi-finals, the final ranking is 3/900.&nbsp;
-		</li>
-		<li>
-			Participated in the "IJCAI-18 Alimama Sponsored Search Conversion Rate(CVR) Prediction Contest" and successfully
+	<br />
+</p>
+<ul>
+	<li>
+		Participated in the "CIKM 2019 EComm AI - Efficient and Novel Item Retrieval for Large-scale Online Shopping
+Recommendation" and successfully entered the semi-finals, the ranking of the semi-finals is <span style="background-color:#00D5FF;">2/1004</span>.&nbsp;
+	</li>
+	<li>
+		Participated in the "National College Green Computing Contest-19 (Project Challenge)", responsible for solving machine
+learning problems and successfully entering the semi-finals, the final ranking is <span style="background-color:#FFE500;">1/1155</span>.
+	</li>
+	<li>
+		&nbsp;Participated in the "National College Green Computing Contest-18 (Project Challenge)", responsible for solving machine
+learning problems and successfully entering the semi-finals, the final ranking is <span style="background-color:#E56600;">3/900</span>. <a href="https://github.com/ChuanyuXue/Chinese-OpenGCC-Contest-2st-Solution" target="_blank">[code]</a>
+	</li>
+	<li>
+		Participated in the "IJCAI-18 Alimama Sponsored Search Conversion Rate(CVR) Prediction Contest" and successfully
 entered the semi-finals, the ranking of the semi-finals is 109/5204.
-		</li>
-		<li>
-			Participated in the "Tianchi Artificial Intelligence-Assisted Diabetes Genetic Risk PredictionContest" and successfully
+	</li>
+	<li>
+		Participated in the "Tianchi Artificial Intelligence-Assisted Diabetes Genetic Risk PredictionContest" and successfully
 entered the semi-finals, the ranking of the semi-finals is 16/2522.&nbsp;
-		</li>
-		<li>
-			Participated in the "CCF-BDCI Location of users in the mall prediction contest" and successfully entered the semi-finals, the
+	</li>
+	<li>
+		Participated in the "CCF-BDCI Location of users in the mall prediction contest" and successfully entered the semi-finals, the
 final ranking of the semi-finals is 65/2845.&nbsp;
-		</li>
-		<li>
-			Participated in the "Tianchi Intelligent Traffic Prediction Contest" and successfully entered the semi-finals, the ranking of the
-semi-finals is 28/1761.&nbsp;
-		</li>
-	</ul>
-</p>
+	</li>
+	<li>
+		Participated in the "Tianchi Intelligent Traffic Prediction Contest" and successfully entered the semi-finals, the ranking of the
+semi-finals is 28/1761. <a href="https://github.com/ChuanyuXue/Tianchi-Traffic-Prediction-Contest" target="_blank">[code]</a>
+	</li>
+</ul>
 <p>
-	<b>Computer Vision</b>
+	<b>Computer Vision</b> 
 </p>
 <ul>
 	<li>
@@ -163,16 +164,63 @@ Qingdao University President Cup and the third prize of Microsoft Innovation Cup
 	</li>
 </ul>
 <p>
-	<strong>Others</strong>
+	<strong>Others</strong> 
 </p>
 <ul>
 	<li>
-		Invited to make the online course titled "The Purchase and Redemption Forecast Challenge" on Alibaba Tianchi platform.&nbsp;
+		Invited to make the online course titled "The Purchase and Redemption Forecast Challenge" on Alibaba Tianchi platform. <a href="https://github.com/ChuanyuXue/The-Purchase-and-Redemption-Forecast-Challenge-baseline" target="_blank">[Code]</a>
+	</li>
+</ul>
+<h3>
+	Publications &amp; talks
+</h3>
+<p>
+	<br />
+</p>
+<ul>
+	<li>
+		Chuan-yu Xue, Shun-yao Wu, Qi Zhang, Feng-jing Shao, An Incremental Group-Specific Framework based on Community
+Detection for Cold Start Recommendation, IEEE Access, Volume 7, 2019, 112363-112374. <a href="https://ieeexplore.ieee.org/document/8795572" target="_blank">[pdf]</a>&nbsp;<a href="https://github.com/ChuanyuXue/Incremental_GroupSpecific_Recommender_System" target="_blank">[code]</a>
+	</li>
+	<li>
+		Shun-yao Wu, Qi Zhang, Chuan-yu Xue, Xi-yang Liao, Cold-start link prediction in multi-relational networks based on
+network dependence analysis, Physica A: Statistical Mechanics and its Applications, 515, 558-565.&nbsp;
+	</li>
+	<li>
+		Mei Wu, Shun-yao Wu, Qi Zhang, Chuan-yu Xue, Feng-jing Shao, Enhancing link prediction via network reconstruction,
+Physica A: Statistical Mechanics and its Applications, Volume 534, 2019, 122346&nbsp;
+	</li>
+	<li>
+		"Bipartite community detection for group-specific recommender system", Chinese Conference on Complex Networks,
+Chongqing, China<br />
 	</li>
 </ul>
 <p>
 	<br />
 </p>
+<h3>
+	Awards
+</h3>
+<p>
+	<br />
+</p>
+<ul>
+	<li>
+		Outstanding Winner of Chinese Green Computing Competition(CCF-OpenGCC)
+	</li>
+	<li>
+		Honorable Award of The Mathematical Contest in Modeling (MCM)
+	</li>
+	<li>
+		Third Prize of China National Computer Application Skills Competition
+	</li>
+	<li>
+		Third Prize of Microsoft Imagine Cup Shandong Provience
+	</li>
+	<li>
+		Second Prize of Provience Science and Technology Innovation Competition
+	</li>
+</ul>
 <p>
 	<br />
 </p>
