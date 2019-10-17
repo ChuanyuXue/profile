@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 关于我
+title: About me
 ---
 
 <h2>
