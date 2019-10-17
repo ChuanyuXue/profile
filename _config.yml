@@ -3,7 +3,7 @@ encoding: utf-8
 # SEO相关信息
 title: Chuanyu Blog
 description: Chuanyu's Personal blog
-keywords: Chuanyu,Blog,Datamining,Python
+keywords: Chuanyu, Blog, Datamining, Python
 author: Chuanyu
 footerText: 'Copyright © Chuanyu Xue'
 
@@ -16,7 +16,7 @@ exclude: ['CNAME', 'README.md', 'LICENSE', 'build']
 
 # 域名配置
 # baseUrl配置,如果网站部署在根目录下的目录中，请设置为 /目录名
-domainUrl: 'http://blog.tmaize.net'
+domainUrl: 'https://chuanyu2019.club'
 baseUrl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
@@ -24,17 +24,17 @@ tucaoUrl: https://www.zhihu.com/people/xuechuanyu/activities
 
 # 菜单
 menu:
-  - title: 首页
+  - title: Root
     url: /
-  - title: 项目
+  - title: Share
     url: /pages/categories.html
-  - title: 搜索
+  - title: Search
     url: /pages/search.html
-  - title: 友链
+  - title: Links
     url: /pages/links.html
-  - title: 博客
+  - title: Blog
     url: /pages/chat.html
-  - title: 关于我
+  - title: About Chuanyu
     url: /pages/about.html
 
 # 自定义插件
