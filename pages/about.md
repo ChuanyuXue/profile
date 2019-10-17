@@ -1,3 +1,15 @@
+---
+layout: mypost
+title: 关于我
+---
+
+<p>
+	<span style="font-size:24px;">Chuan-yu Xue&nbsp;</span>
+</p>
+<p>
+	<span style="font-size:24px;"><br />
+</span>
+</p>
 <p>
 	<table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#000000">
 		<tbody>
