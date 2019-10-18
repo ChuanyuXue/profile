@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 友情链接
+title: Links
 ---
 
 Welcome to other pages of mine
