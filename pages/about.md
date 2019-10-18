@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: About me
+title: Download My CV
 ---
 
 <p>
