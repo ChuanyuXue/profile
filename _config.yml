@@ -24,13 +24,13 @@ tucaoUrl: https://www.zhihu.com/people/xuechuanyu/activities
 
 # 菜单
 menu:
-  - title: Resume
+  - title: Bibliography
     url: /
   - title: Blog
     url: /pages/chat.html
   - title: Links
     url: /pages/links.html
-  - title: Download CV
+  - title: Download my CV
     url: /pages/about.html
 
 # 自定义插件
@@ -43,13 +43,13 @@ menu:
 # plugin-mathjax
 # 数学公式支持，比较影响加载速度，请设置为 false
 customPlugins:
-  - use: true
+  - use: false
     file: 'plugin-mta-stats.html'
     sid: 500581966
     cid: 500581972
   - use: true
     file: 'plugin-baidu-push.html'
-  - use: true
+  - use: false
     file: 'plugin-click-effect.html'
   - use: false
     file: 'plugin-mathjax.html'
