@@ -24,7 +24,7 @@ tucaoUrl: https://www.zhihu.com/people/xuechuanyu/activities
 
 # 菜单
 menu:
-  - title: Bibliography
+  - title: Biography
     url: /
   - title: Blog
     url: /pages/chat.html
