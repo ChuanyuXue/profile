@@ -3,7 +3,7 @@ layout: mypost
 title: Links
 ---
 
-Welcome to other pages of mine
+Friend links
 
 
 <ul>
