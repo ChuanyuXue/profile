@@ -20,7 +20,7 @@ domainUrl: 'https://chuanyuxue.com'
 baseUrl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://paperal.ink
+tucaoUrl: http://paperal.ink
 
 # 菜单
 menu:
